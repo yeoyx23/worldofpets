@@ -1,0 +1,49 @@
+.pet {
+ text-decoration: underline;
+}
+.caption{
+    font-style: italic;
+     color: gray;
+}
+
+figure {
+  display: inline-block;
+  text-align: center;
+
+}
+
+div.bye {
+  border-bottom: 3px solid gray;
+}
+
+.display{
+    font-style: italic; 
+   text-align: center;
+}
+
+.photo {
+  border: 3px double #C0C0C0; 
+  outline: 5px double #C0C0C0;
+}
+
+#poodle{
+  border: 3px double #C0C0C0; 
+  outline: 5px double #C0C0C0;
+}
+
+.img-popup{
+    width: auto;
+    height: 80%;
+    position: absolute;
+    top: 60px;
+    z-index: 1;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    border-color: black;
+    padding: 10px;
+    background: lightgrey;
+}
+
+.img-popup img{
+    height:100%;
+}
