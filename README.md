@@ -1,5 +1,7 @@
 # World Of Pets
 
+This is a webpage to shop for pets.
+
 # License
 The MIT License (MIT)
 
